@@ -33,7 +33,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-  strings : ["MAIZEN UX","Web Designer","Youtuber","Developer"],
+  strings : ["MAIZEN GG","Web Designer","Creator","Developer"],
   loop : true,
   typeSpeed : 60, 
   backSpeed : 84,
@@ -168,4 +168,5 @@ function showPopup() {
 // Function to close the popup
 function closePopup() {
   document.getElementById('popupMessage').style.display = 'none';
+
 }
